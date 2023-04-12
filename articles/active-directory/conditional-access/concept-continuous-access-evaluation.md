@@ -27,7 +27,7 @@ The initial implementation of continuous access evaluation focuses on Exchange, 
 
 To prepare your applications to use CAE, see [How to use Continuous Access Evaluation enabled APIs in your applications](../develop/app-resilience-continuous-access-evaluation.md).
 
-Continuous access evaluation is available in Azure Government tenants (GCC High and DOD) for Exchange Online.
+Continuous access evaluation is available in Azure Government tenants (GCC High and DOD) for Exchange Online and SharePoint Online.
 
 ### Key benefits
 
